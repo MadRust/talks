@@ -41,7 +41,13 @@ El tema principal, obviamente, debería ser Rust. Échale un vistazo a las issue
 
 Charlas pasadas
 ---------------
-De momento ninguna. Estamos empezando :)
+
+### Febrero 2018
+
+Presentación de MadRust.
+
+* [Video](https://www.youtube.com/watch?v=LS70Tu7nsJ0&t=2868s)
+* [Slides](https://docs.google.com/presentation/d/1OcuKfU0iGUqj6hOojvlfdgYVKIofbQsiVE1sFo3B5p8/edit)
 
 Próximas charlas
 ----------------

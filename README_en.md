@@ -48,7 +48,12 @@ Secondly, you can talk about anything Rust related! Aside from looking at what o
 Past talks
 ----------
 
-None so far. We are just starting :)
+### February 2018
+
+Introduction to MadRust
+
+* [Video](https://www.youtube.com/watch?v=LS70Tu7nsJ0&t=2868s)
+* [Slides](https://docs.google.com/presentation/d/1OcuKfU0iGUqj6hOojvlfdgYVKIofbQsiVE1sFo3B5p8/edit#slide=id.g32b84b7ebe_1_1)
 
 Next talks
 ----------

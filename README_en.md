@@ -57,5 +57,7 @@ Introduction to MadRust
 
 Next talks
 ----------
+### April 5th 2018
 
-Soon to be announced.
+* [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) by [Imanol Fernández](https://github.com/MortimerGoro)
+* [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) by [José Luis Esteban](https://github.com/jleahred)

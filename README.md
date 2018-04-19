@@ -49,11 +49,19 @@ Presentación de MadRust.
 * [Video](https://www.youtube.com/watch?v=LS70Tu7nsJ0&t=2868s)
 * [Slides](https://docs.google.com/presentation/d/1OcuKfU0iGUqj6hOojvlfdgYVKIofbQsiVE1sFo3B5p8/edit)
 
-Próximas charlas
-----------------
 ### 5 Abril 2018
 
-* [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) por [Imanol Fernández](https://github.com/MortimerGoro)
-* [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) por [José Luis Esteban](https://github.com/jleahred)
+* [Video](https://www.youtube.com/watch?v=TPERPhRRgp4&t=2765s)
+* Charlas
+  * [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) por [Imanol Fernández](https://github.com/MortimerGoro)
+    * Slides
+  * [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) por [José Luis Esteban](https://github.com/jleahred)
+    * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
 
+Próximas charlas
+----------------
 
+### 19 Abril 2018
+* [WebRender: Rendering the web with WebRender](https://github.com/MadRust/talks/issues/4) por [Martin Robinson](https://github.com/mrobinson)
+* [Algunas formas de refactorizar C para portarlo a Rust](https://github.com/MadRust/talks/issues/7) por [Federico Mena Quintero](https://github.com/federicomenaquintero)
+* [Rust 2018 Edition](https://github.com/MadRust/talks/issues/5) por [Alex Crichton](https://github.com/alexcrichton)

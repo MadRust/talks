@@ -59,9 +59,9 @@ Introduction to MadRust
 
 * [Video](https://www.youtube.com/watch?v=TPERPhRRgp4&t=2765s)
 * Charlas
-  * [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) por [Imanol Fernández](https://github.com/MortimerGoro)
+  * [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) by [Imanol Fernández](https://github.com/MortimerGoro)
     * Slides
-  * [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) por [José Luis Esteban](https://github.com/jleahred)
+  * [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) by [José Luis Esteban](https://github.com/jleahred)
     * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
 
 Next talks

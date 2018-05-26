@@ -58,10 +58,19 @@ Presentación de MadRust.
   * [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) por [José Luis Esteban](https://github.com/jleahred)
     * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
 
-Próximas charlas
-----------------
-
 ### 19 Abril 2018
+(Los videos y slides se subirán y enlazarán próximamente)
 * [WebRender: Rendering the web with WebRender](https://github.com/MadRust/talks/issues/4) por [Martin Robinson](https://github.com/mrobinson)
 * [Algunas formas de refactorizar C para portarlo a Rust](https://github.com/MadRust/talks/issues/7) por [Federico Mena Quintero](https://github.com/federicomenaquintero)
 * [Rust 2018 Edition](https://github.com/MadRust/talks/issues/5) por [Alex Crichton](https://github.com/alexcrichton)
+
+### 24 Mayo 2018
+(Los videos y slides se subirán y enlazarán próximamente)
+* [Rust and the Blockchain: a love story](https://github.com/MadRust/talks/issues/10) por [Adán SDPC](https://github.com/aesedepece)
+* [GObject y gobject_gen!(...)](https://github.com/MadRust/talks/issues/8) por [Alberto Ruiz](https://github.com/aruiz)
+* [Rust bajo la alfombra](https://github.com/MadRust/talks/issues/9) por [J.Roberto Vidal](https://github.com/jrvidal)
+
+Próximas charlas
+----------------
+
+TBD

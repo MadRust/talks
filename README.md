@@ -59,16 +59,24 @@ Presentación de MadRust.
     * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
 
 ### 19 Abril 2018
-(Los videos y slides se subirán y enlazarán próximamente)
 * [WebRender: Rendering the web with WebRender](https://github.com/MadRust/talks/issues/4) por [Martin Robinson](https://github.com/mrobinson)
+    * [Video](https://www.youtube.com/watch?v=hXzLC6ArlgE)
+    * [Slides](https://github.com/MadRust/talks/raw/master/slides/meetup3_mrobinson.pdf)
 * [Algunas formas de refactorizar C para portarlo a Rust](https://github.com/MadRust/talks/issues/7) por [Federico Mena Quintero](https://github.com/federicomenaquintero)
+    * [Video](https://www.youtube.com/watch?v=NIlLEjV9xII&t=3s)
+    * [Slides](https://github.com/MadRust/talks/raw/master/slides/meetup3_federico.pdf)
 * [Rust 2018 Edition](https://github.com/MadRust/talks/issues/5) por [Alex Crichton](https://github.com/alexcrichton)
 
 ### 24 Mayo 2018
-(Los videos y slides se subirán y enlazarán próximamente)
 * [Rust and the Blockchain: a love story](https://github.com/MadRust/talks/issues/10) por [Adán SDPC](https://github.com/aesedepece)
+    * [Video](https://www.youtube.com/watch?v=yd5oe-ZoeHI)
+    * [Slides](https://github.com/MadRust/talks/raw/master/slides/meetup4_adan.pdf)
 * [GObject y gobject_gen!(...)](https://github.com/MadRust/talks/issues/8) por [Alberto Ruiz](https://github.com/aruiz)
+    * [Video](https://www.youtube.com/watch?v=tccvJTGcZvU)
+    * [Slides](https://github.com/MadRust/talks/raw/master/slides/meetup4_aruiz.pdf)
 * [Rust bajo la alfombra](https://github.com/MadRust/talks/issues/9) por [J.Roberto Vidal](https://github.com/jrvidal)
+    * [Video](https://www.youtube.com/watch?v=i9HhyIIueq4)
+    * [Slides]()
 
 Próximas charlas
 ----------------

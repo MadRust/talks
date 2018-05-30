@@ -56,13 +56,12 @@ Introduction to MadRust
 * [Slides](https://docs.google.com/presentation/d/1OcuKfU0iGUqj6hOojvlfdgYVKIofbQsiVE1sFo3B5p8/edit#slide=id.g32b84b7ebe_1_1)
 
 ### April 5th 2018
-
-* [Video](https://www.youtube.com/watch?v=TPERPhRRgp4&t=2765s)
-* Talks
-  * [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) by [Imanol Fernández](https://github.com/MortimerGoro)
-    * [Slides](https://mortimergoro.github.io/rust-cpp-alternative-talk/#/)
-  * [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) by [José Luis Esteban](https://github.com/jleahred)
-    * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
+* [Rust como alternativa a C/C++](https://github.com/MadRust/talks/issues/1) by [Imanol Fernández](https://github.com/MortimerGoro)
+  * [Video](https://youtu.be/TPERPhRRgp4?t=150)
+  * [Slides](https://mortimergoro.github.io/rust-cpp-alternative-talk/#/)
+* [El lado egoísta de Rust](https://github.com/MadRust/talks/issues/2) by [José Luis Esteban](https://github.com/jleahred)
+  * [Video](https://youtu.be/TPERPhRRgp4?t=2733)
+  * [Slides](https://docs.google.com/presentation/d/1NzVkuqu8Mah48L1J2NJxD0JQ2qbsjL_VJCs4u9Fv5lw/edit#slide=id.g28b9cc75db_0_118)
 
 ### April 19th 2018
 * [WebRender: Rendering the web with WebRender](https://github.com/MadRust/talks/issues/4) by [Martin Robinson](https://github.com/mrobinson)

@@ -76,6 +76,10 @@ Presentación de MadRust.
 * [Rust bajo la alfombra](https://github.com/MadRust/talks/issues/9) por [J.Roberto Vidal](https://github.com/jrvidal)
     * [Video](https://www.youtube.com/watch?v=i9HhyIIueq4)
     * [Slides](../../raw/master/slides/meetup4_roberto.pdf)
+    
+### 17 Octubre 2018
+* [rustc: a wonderful journey](https://github.com/MadRust/talks/issues/11) por [Rafael Fernández López](https://github.com/ereslibre)
+    * [Video](https://youtu.be/8rr35zCg60c)
 
 Próximas charlas
 ----------------

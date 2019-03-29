@@ -86,6 +86,10 @@ Presentación de MadRust.
   * [Video](https://www.youtube.com/watch?v=pyi64c0QwOM)
   * [Slides](../../raw/master/slides/meetup6_mjkillough.pdf)
 
+### 1 Marzo 2019
+* [gstreamer-rs: multimedia con Rust](https://github.com/MadRust/talks/issues/14) por [Víctor Jáquez](https://github.com/ceyusa)
+  * [Slides](https://madrust.github.io/talks/meetup7_ceyusa)
+
 Próximas charlas
 ----------------
 

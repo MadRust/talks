@@ -81,6 +81,11 @@ Presentación de MadRust.
 * [rustc: a wonderful journey](https://github.com/MadRust/talks/issues/11) por [Rafael Fernández López](https://github.com/ereslibre)
     * [Video](https://youtu.be/8rr35zCg60c)
 
+### 15 Noviembre 2018
+* [Deliveroo: Ruby to Rust](https://github.com/MadRust/talks/issues/13) por [Michael Killough](https://github.com/mjkillough)
+  * [Video](https://www.youtube.com/watch?v=pyi64c0QwOM)
+  * [Slides](../../raw/master/slides/meetup6_mjkillough.pdf)
+
 Próximas charlas
 ----------------
 

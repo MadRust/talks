@@ -90,7 +90,7 @@ Presentación de MadRust.
 * [gstreamer-rs: multimedia con Rust](https://github.com/MadRust/talks/issues/14) por [Víctor Jáquez](https://github.com/ceyusa)
   * [Slides](https://madrust.github.io/talks/meetup7_ceyusa)
 
-### 5 Abril 2019
+### 4 Abril 2019
 * [gtk-rs: Aplicaciones de escritorio en Rust](https://github.com/MadRust/talks/issues/15) por [Daniel García](https://github.com/danigm)
   * [Slides](../../raw/master/slides/meetup8_danigm.pdf)
 * [Rust in my Boot: Creating UEFI binaries with Rust](https://github.com/MadRust/talks/issues/16) por [Alberto Ruiz](https://github.com/aruiz)

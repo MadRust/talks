@@ -1,0 +1,30 @@
+name: Propuesta de solicitud
+description: Usa esta plantilla si quieres solicitar que alguien dé una charla sobre un tema que te interesa
+assignees:
+  - "MadRust/contenido"
+labels:
+  - solicitud
+  - "estado/triaje"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **¡Muchas gracias por tu interés en participar en MadRust!**
+
+        Usa esta plantilla si quieres solicitar que alguien dé una charla sobre un tema que te interesa
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción
+    validations:
+      required: true
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: Nivel
+      options:
+        - Iniciación
+        - Intermedio
+        - Avanzado
+    validations:
+      required: true

@@ -1,0 +1,45 @@
+name: Propuesta de charla
+description: Usa esta plantilla si quieres proponer una charla de la que serás una de las personas ponentes
+assignees:
+  - "MadRust/contenido"
+labels:
+  - propuesta
+  - "estado/triaje"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **¡Muchas gracias por tu interés en participar en MadRust!**
+
+        Usa esta plantilla si quieres proponer una charla de la que serás una de las personas ponentes
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción
+    validations:
+      required: true
+  - type: textarea
+    id: bios
+    attributes:
+      label: Bio de los ponentes
+    validations:
+      required: true
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: Nivel
+      options:
+        - Iniciación
+        - Intermedio
+        - Avanzado
+    validations:
+      required: true
+  - type: dropdown
+    id: duracion
+    attributes:
+      label: Duración
+      options:
+        - 30 minutos
+        - 1 hora
+    validations:
+      required: true

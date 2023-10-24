@@ -1,7 +1,5 @@
 name: Propuesta de solicitud
 description: Usa esta plantilla si quieres solicitar que alguien dé una charla sobre un tema que te interesa
-assignees:
-  - contenido
 labels:
   - solicitud
   - "estado/triaje"

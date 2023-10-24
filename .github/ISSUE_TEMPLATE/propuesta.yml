@@ -1,7 +1,7 @@
 name: Propuesta de charla
 description: Usa esta plantilla si quieres proponer una charla de la que serás una de las personas ponentes
 assignees:
-  - "@MadRust/contenido"
+  - contenido
 labels:
   - propuesta
   - "estado/triaje"
